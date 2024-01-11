@@ -37,3 +37,7 @@ npx hardhat compile
 ## Usage 🚀
 
 Currently working on a DeFi application using ASP.NET and Nethereum library to make a smart wallet to interact with this contract.
+
+## Etherscan screenshot
+
+![alt text](Etherscan_Image.png "Etherscan Screenshot")
